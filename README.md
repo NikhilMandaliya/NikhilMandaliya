@@ -10,6 +10,8 @@ A Backend developer who is always up for new challenges and opportunities, and l
 * 🖥️  See my portfolio [here](http://nikhilmandaliya.github.io/)
 * ✉️  You can contact me at [nikhilrm8923@gmail.com](mailto:nikhilrm8923@gmail.com)
 
+---
+
 ### Skills
 
 
