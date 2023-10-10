@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikhil Mandaliya
+Hi! I'm Nikhil Mandaliya
 ========================================================================================================================================
 
 Backend developer
@@ -7,6 +7,8 @@ Backend developer
 A Backend developer who is always up for new challenges and opportunities, and loves to solve problems. Love to code and make web applications. Experience building web applications and APIs using NodeJs, Express, and MongoDB.
 
 * 🌍  I'm based in Ahmedabad, India
+* 🔭  I’m currently working on NodeJs
+* 🌱  I’m currently learning Reactjs
 * 🖥️  See my portfolio [here](http://nikhilmandaliya.github.io/)
 * ✉️  You can contact me at [nikhilrm8923@gmail.com](mailto:nikhilrm8923@gmail.com)
 
