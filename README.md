@@ -8,7 +8,7 @@ A Backend developer who is always up for new challenges and opportunities, and l
 
 * 🌍  I'm based in Ahmedabad, India
 * 🔭  I’m currently working on NodeJs
-* 🌱  I’m currently learning Reactjs
+* 🌱  I’m currently learning ReactJs
 * 🖥️  See my portfolio [here](http://nikhilmandaliya.github.io/)
 * ✉️  You can contact me at [nikhilrm8923@gmail.com](mailto:nikhilrm8923@gmail.com)
 
