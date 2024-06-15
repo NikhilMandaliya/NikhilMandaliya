@@ -7,8 +7,8 @@ Backend developer
 A Backend developer who is always up for new challenges and opportunities, and loves to solve problems. Love to code and make web applications. Experience building web applications and APIs using NodeJs, Express, and MongoDB.
 
 * 🌍  I'm based in Ahmedabad, India
-* 🔭  I’m currently working on NodeJs
-* 🌱  I’m currently learning ReactJs
+* 🔭  I’m currently working on Node.js and React
+* 🌱  I’m currently learning Next.js
 * 🖥️  See my portfolio [here](http://nikhilmandaliya.github.io/)
 * ✉️  You can contact me at [nikhilrm8923@gmail.com](mailto:nikhilrm8923@gmail.com)
 
