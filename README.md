@@ -55,7 +55,7 @@ Backend-focused Software Engineer passionate about building scalable systems, mi
 
 <p align="left" style="display:flex; gap:8px; flex-wrap:wrap;">
 
-<a href="https://www.linkedin.com/in/nikhil-mandaniya-a5955920a" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/nikhil-mandaniya" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
 <a href="https://github.com/NikhilMandaliya" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=github" height="40" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.instagram.com/nikhil.mandaliya" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>&nbsp;
 <a href="mailto:nikhilrm8923@gmail.com" rel="noreferrer" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>&nbsp;
